@@ -1,8 +1,7 @@
-# BLACK_JACK
-Pet project - "BlackJack" Game
+# Pet-project "BLACK JACK"
 
-Card game, developed with JS native from scratch!
+#### Card game, developed with JS native from scratch!
 
-Classic "Black-Jack" game rules: https://bicyclecards.com/how-to-play/blackjack/
+- Classic "Black-Jack" game rules: https://bicyclecards.com/how-to-play/blackjack/
 
-
+This project will be porting to React...
